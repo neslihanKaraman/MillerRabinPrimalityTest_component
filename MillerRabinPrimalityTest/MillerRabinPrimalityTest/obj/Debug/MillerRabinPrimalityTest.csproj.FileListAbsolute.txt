@@ -1,0 +1,9 @@
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\bin\Debug\MillerRabinPrimalityTest.exe.config
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\bin\Debug\MillerRabinPrimalityTest.exe
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\bin\Debug\MillerRabinPrimalityTest.pdb
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\obj\Debug\MillerRabinPrimalityTest.Properties.Resources.resources
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\obj\Debug\MillerRabinPrimalityTest.csproj.GenerateResource.cache
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\obj\Debug\MillerRabinPrimalityTest.csproj.CoreCompileInputs.cache
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\obj\Debug\MillerRabinPrimalityTest.exe
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\obj\Debug\MillerRabinPrimalityTest.pdb
+C:\Users\nesli\source\repos\MillerRabinPrimalityTest\MillerRabinPrimalityTest\obj\Debug\MillerRabinPrimalityTest.Form1.resources
